@@ -25,7 +25,7 @@ This project focuses on creating a structured, single-page CV using only HTML (n
    cd CV
    open index.html
    
-##✨ **Features**
+##✨ Features
 - Semantic HTML5 markup
 
 - Properly structured sections:
@@ -40,7 +40,7 @@ This project focuses on creating a structured, single-page CV using only HTML (n
 
 - Accessible design (without styling)
 
-##📝 **Project Requirements**
+##📝 Project Requirements
 - Your HTML CV should include:
 
 - Your name and title
@@ -65,7 +65,7 @@ no_reply@example.com
 
 (Followed by education, experience, and skills sections)
 
-## 🤝 **How to Contribute**
+## 🤝 How to Contribute
 While this is a personal CV project, suggestions are welcome:
 
 - Fork the repository
@@ -78,5 +78,5 @@ While this is a personal CV project, suggestions are welcome:
 
 - Open a pull request
 
-## 📄 License
-This project is unlicensed - feel free to use as a template for your own CV
+
+PROJECT URL: https://roadmap.sh/projects/single-page-cv
